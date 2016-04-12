@@ -1,5 +1,5 @@
-# React/Redux Example Todo Application
---------------------------------------
+React/Redux Example Todo Application
+====================================
 
 An example application demonstrating how to build a Todo with React and Redux.
 
